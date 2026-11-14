@@ -1,0 +1,38 @@
+{
+  "description": "Every unique fact from the four drafts must appear in the published site. Do not drop, paraphrase-away, or invent replacements for these strings.",
+  "source_drafts": [
+    "drafts/01-story-hours.html",
+    "drafts/02-services-pricing.html",
+    "drafts/03-team-contact.html",
+    "drafts/04-faq-testimonials.html"
+  ],
+  "must_preserve": [
+    "Northridge Field Station",
+    "est. 1987",
+    "14-acre hillside campus",
+    "Tuesday–Saturday, 9:00–17:00",
+    "closed Sunday and Monday",
+    "last admission 16:15",
+    "guided ridge walk at 10:30",
+    "Member Day is the first Saturday of each month",
+    "Day pass $12",
+    "Student / senior $8",
+    "Annual household $95",
+    "School group $6 per student",
+    "Equipment rental $4",
+    "Trail map PDF at /maps/ridge-loop.pdf",
+    "Dr. Lena Okonkwo, Director",
+    "Marcus Hale, Collections",
+    "Priya Shah, Education",
+    "front desk: 555-0148",
+    "visitors@northridgefield.example",
+    "88 Switchback Road, Northridge",
+    "Wheelchair access via the west lift",
+    "Dogs on leash on the outer loop only",
+    "No drones without a written permit",
+    "Lockers next to the boot wash",
+    "\"The ridge walk is the highlight of our year.\" — A. Chen",
+    "\"Staff actually knew the bird calls.\" — J. Patel",
+    "\"Quiet enough to hear the creek.\" — M. Rossi"
+  ]
+}
