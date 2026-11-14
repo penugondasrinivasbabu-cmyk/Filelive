@@ -4,6 +4,19 @@
 
 The canonical homepage is **`site/index.html`**. The site reconciles all four supplied drafts, preserves all **27 required strings verbatim as visible page content**, and leaves every original file under `Gitfile/` unchanged.
 
+## People
+
+The [03 / The people](https://penugondasrinivasbabu-cmyk.github.io/Filelive/#team) section lists all six people in this order:
+
+1. Dr. Lena Okonkwo, Director
+2. Marcus Hale, Collections
+3. Priya Shah, Education
+4. Aishwarya, Education
+5. Yukta, Chief
+6. Samuel, VC
+
+The final three entries are requested additions after the original draft reconciliation. The original drafts and preservation contract remain unchanged.
+
 ## Alignment and reconciliation
 
 | Requirement | Implementation |
